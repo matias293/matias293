@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matias Marin</h1>
 <h1 align="center">I am 26 years old</h1>
-<h3 align="center">A passionate Backend Developer from Argentina that love Futbol !</h3>
+<h3 align="center">A passionate Backend Developer from Argentina that love football !</h3>
 
 - 🌱 I’m currently learning **AWS and SQL**
 
