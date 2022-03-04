@@ -2,7 +2,7 @@
 <h1 align="center">I am 26 years old</h1>
 <h3 align="center">A passionate Backend Developer from Argentina that love football !</h3>
 
-- 🌱 I’m currently learning **MICROSERVICES AND REACT**
+- 🌱 I’m currently learning **TYPESCRIPT AND REACT**
 
 - 💬 Ask me about **node.js, express**
 
